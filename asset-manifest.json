@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Enterra-Soft__test-task-/static/css/main.b2013263.css",
+    "main.js": "/Enterra-Soft__test-task-/static/js/main.bced4bdc.js",
+    "static/js/453.c5932eb1.chunk.js": "/Enterra-Soft__test-task-/static/js/453.c5932eb1.chunk.js",
+    "index.html": "/Enterra-Soft__test-task-/index.html",
+    "main.b2013263.css.map": "/Enterra-Soft__test-task-/static/css/main.b2013263.css.map",
+    "main.bced4bdc.js.map": "/Enterra-Soft__test-task-/static/js/main.bced4bdc.js.map",
+    "453.c5932eb1.chunk.js.map": "/Enterra-Soft__test-task-/static/js/453.c5932eb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2013263.css",
+    "static/js/main.bced4bdc.js"
+  ]
+}
